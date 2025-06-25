@@ -28,8 +28,11 @@ This dashboard helps businesses **track performance, optimize discounts, and foc
 - Data Modeling (Star Schema)  
 
 
+https://github.com/user-attachments/assets/1800fd77-5f20-406d-8006-6d1584318dff
 
-https://github.com/user-attachments/assets/1933aa41-61cd-4408-a378-9a18902bbb7a
+
+
+
 
 
 
